@@ -1,0 +1,10 @@
+C:\Users\deddy\source\repos\Login_system\Login_system\bin\Debug\Login_system.exe.config
+C:\Users\deddy\source\repos\Login_system\Login_system\bin\Debug\Login_system.exe
+C:\Users\deddy\source\repos\Login_system\Login_system\bin\Debug\Login_system.pdb
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.csproj.AssemblyReference.cache
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.Form1.resources
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.Properties.Resources.resources
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.csproj.GenerateResource.cache
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.csproj.CoreCompileInputs.cache
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.exe
+C:\Users\deddy\source\repos\Login_system\Login_system\obj\Debug\Login_system.pdb
